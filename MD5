@@ -1,0 +1,11 @@
+d6200a48e12479b874c8387e299ed227 *DESCRIPTION
+b5b2e20c75457107297b566908b8c29d *NAMESPACE
+5b98c8c5261262e9dcb0682b5fb71496 *R/data.R
+0e2b42dc0682ea9207f6df3e3381b1c1 *build/vignette.rds
+d928929aeb9faa10c9da76f2855cf96d *data/csp.rda
+c0bfdb8c89784d0703ceee718e03b7b4 *data/datalist
+25bad7a38d98343810fe5124e49846f2 *inst/doc/csp.R
+d2bbca23107c403330e1dcd09df0ed67 *inst/doc/csp.Rmd
+db4837e56d6432fe0b2117fa8e0551cd *inst/doc/csp.html
+fe1e5f3e3a34ab4029dec3c16e32c881 *man/csp.Rd
+d2bbca23107c403330e1dcd09df0ed67 *vignettes/csp.Rmd
